@@ -1,0 +1,3 @@
+import tkinter
+
+fenster = Tk()
