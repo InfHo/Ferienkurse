@@ -1,0 +1,7 @@
+Python installieren: https://www.python.org/downloads/
+
+
+F5		Code ausführen
+#		code rauskommentieren
+alt + 3 	mehrere Zeilen rauskommentieren
+alt + 4 	mehrere Zeilen reinkommentieren
